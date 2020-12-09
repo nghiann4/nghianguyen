@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-Hello, my name is Nghia Nguyen!!!
+**Hello, my name is Nghia Nguyen!!!**
 
 You can use the [editor on GitHub](https://github.com/nghiann4/nghianguyen/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
